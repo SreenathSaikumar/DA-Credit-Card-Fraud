@@ -6,3 +6,6 @@ To execute the code, clone the repository and simply type the following commands
 ``` cd notebook``` &
 ```jupyter notebook```
 Once in jupyter, open the notebook of your choice and use ```Shift+Return``` to execute the desired code cell.
+
+## Link to Video
+https://drive.google.com/file/d/1OMIqX5kmTa6gSonTCdqtuswHBmcUCrwH/view?usp=sharing
